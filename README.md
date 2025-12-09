@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Salary Range Classification (Adult dataset) - From Scratch
 
 ## Project goal
@@ -46,3 +47,6 @@ git add .
 git commit -m "Initial commit - salary classification from scratch"
 gh repo create your-repo-name --public --source=. --remote=origin
 git push -u origin main
+=======
+# Salary--Range-Classification
+>>>>>>> 798ba96b785c90a572b8ab539075cbafef447df9
